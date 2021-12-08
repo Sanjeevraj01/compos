@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109235366963",
+    "project_id": "virtualmap-4e99b",
+    "storage_bucket": "virtualmap-4e99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109235366963:android:ef008191a9eca2684d0746",
+        "android_client_info": {
+          "package_name": "com.example.compos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109235366963-fhq6jr4tgvu3qa9lsrftndq1kaikk55g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdytCSvERANLq59ULoJuNObm3MWIl2ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109235366963-fhq6jr4tgvu3qa9lsrftndq1kaikk55g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
